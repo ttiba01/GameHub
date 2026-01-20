@@ -1,0 +1,27 @@
+# Code::Blocks build folders
+bin/
+obj/
+Debug/
+Release/
+
+# Code::Blocks workspace/user files
+*.layout
+*.depend
+*.cbp.user
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Backup or temp files
+*~
+*.bak
+*.swp
+
+# Compiled binaries
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.dll
