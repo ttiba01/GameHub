@@ -1,0 +1,10 @@
+# Ignore compiled files
+bin/
+obj/
+*.exe
+*.o
+*.layout
+*.depend
+
+# Ignore IDE folders
+.vscode/
